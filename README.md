@@ -15,11 +15,11 @@ Here are the steps for operating the Motion APP:
 ### Demo link
 We prepare different videos to have a demonstration, including various fitness tools.
 Spinning Bike: https://youtu.be/-jfIrn1ihvg 
-In'rider Trainer: https://youtu.be/zZuqHJDl4GQ 
-Bike: https://youtu.be/eqxD2xeOCok 
-Elliptical Trainer: https://youtu.be/D-07xies0b4 
-Weight Train Test: https://youtu.be/u4vU5vFN_NU 
-Rowing Machine: https://youtu.be/_lgpKWFhuuU 
+1. In'rider Trainer: https://youtu.be/zZuqHJDl4GQ 
+2. Bike: https://youtu.be/eqxD2xeOCok 
+3. Elliptical Trainer: https://youtu.be/D-07xies0b4 
+4. Weight Train Test: https://youtu.be/u4vU5vFN_NU 
+5. Rowing Machine: https://youtu.be/_lgpKWFhuuU 
 
 
 
