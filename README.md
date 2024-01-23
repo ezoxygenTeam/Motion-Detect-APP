@@ -14,13 +14,14 @@ Here are the steps for operating the Motion APP:
 
 ### Demo link
 We prepare different videos to have a demonstration, including various fitness tools.
-Spinning Bike: https://youtu.be/-jfIrn1ihvg 
-1. In'rider Trainer: https://youtu.be/zZuqHJDl4GQ 
-2. Bike: https://youtu.be/eqxD2xeOCok 
-3. Elliptical Trainer: https://youtu.be/D-07xies0b4 
-4. Weight Train Test: https://youtu.be/u4vU5vFN_NU 
-5. Rowing Machine: https://youtu.be/_lgpKWFhuuU 
+1. Spinning Bike: https://youtu.be/-jfIrn1ihvg 
+2. In'rider Trainer: https://youtu.be/zZuqHJDl4GQ 
+3. Bike: https://youtu.be/eqxD2xeOCok 
+4. Elliptical Trainer: https://youtu.be/D-07xies0b4 
+5. Weight Train Test: https://youtu.be/u4vU5vFN_NU 
+6. Rowing Machine: https://youtu.be/_lgpKWFhuuU 
 
 
 
-#### link
+#### Contac e-mail
+service@genius-gh.com
