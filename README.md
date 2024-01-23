@@ -23,5 +23,5 @@ We prepare different videos to have a demonstration, including various fitness t
 
 
 
-#### Contac e-mail
+#### Contact e-mail
 service@genius-gh.com
