@@ -13,6 +13,14 @@ Here are the steps for operating the Motion APP:
 7. This app can detect various types of motion by monitoring changes in the sensor's position, intensity, and signals, facilitating the analysis of different exercise patterns.
 
 ### Demo link
-We prepare different fitness tools to have a demonstration, including ...
+We prepare different videos to have a demonstration, including various fitness tools.
+Spinning Bike: https://youtu.be/-jfIrn1ihvg 
+In'rider Trainer: https://youtu.be/zZuqHJDl4GQ 
+Bike: https://youtu.be/eqxD2xeOCok 
+Elliptical Trainer: https://youtu.be/D-07xies0b4 
+Weight Train Test: https://youtu.be/u4vU5vFN_NU 
+Rowing Machine: https://youtu.be/_lgpKWFhuuU 
+
+
 
 #### link
