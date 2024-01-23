@@ -1,5 +1,5 @@
 # Motion-Detect-APP
-Using Genius's Android APP to detect the ultrasonic sensor to mimic the activity of sport and fitness.
+Using Genius's Android APP to detect the ultrasonic sensor to mimic sport and fitness activity.
 
 ## Usage Instructions:
 
@@ -10,6 +10,9 @@ Here are the steps for operating the Motion APP:
 4. Adjust the sensor's frequency and threshold settings accordingly.
 5. Return to the test interface.
 6. Click the 'Start' button to initiate detection.
-7. This app is capable of detecting various types of motion by monitoring changes in the sensor's position, intensity, and signals, facilitating the analysis of different exercise patterns.
+7. This app can detect various types of motion by monitoring changes in the sensor's position, intensity, and signals, facilitating the analysis of different exercise patterns.
 
-### link
+### Demo link
+We prepare different fitness tools to have a demonstration, including ...
+
+#### link
