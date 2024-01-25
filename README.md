@@ -12,7 +12,7 @@ Here are the steps for operating the Motion APP:
 6. Click the 'Start' button to initiate detection.
 7. This app can detect various types of motion by monitoring changes in the sensor's position, intensity, and signals, facilitating the analysis of different exercise patterns.
 
-### Demo link
+## Demo link
 We prepare different videos to have a demonstration, including various fitness tools.
 1. Spinning Bike: https://youtu.be/-jfIrn1ihvg 
 2. In'rider Trainer: https://youtu.be/zZuqHJDl4GQ 
@@ -21,7 +21,5 @@ We prepare different videos to have a demonstration, including various fitness t
 5. Weight Train Test: https://youtu.be/u4vU5vFN_NU 
 6. Rowing Machine: https://youtu.be/_lgpKWFhuuU 
 
-
-
-#### Contact e-mail
+## Contact e-mail
 service@genius-gh.com
