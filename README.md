@@ -2,7 +2,7 @@
 
 ---
 
-# Motion-Detect-APP
+# Motion Detect APP
 Using Genius's Android APP to detect the ultrasonic sensor to mimic sport and fitness activity.
 
 ---
