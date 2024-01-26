@@ -1,3 +1,5 @@
+![picture](https://github.com/ezoxygenTeam/Try-Breath/blob/main/demo%20photo/GH_LOGO(E).png)
+
 # Motion-Detect-APP
 Using Genius's Android APP to detect the ultrasonic sensor to mimic sport and fitness activity.
 
