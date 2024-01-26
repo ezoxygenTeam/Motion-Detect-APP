@@ -2,7 +2,8 @@
 
 ---
 
-# Motion Detect APP
+# ezGym
+
 Using Genius's Android APP to detect the ultrasonic sensor to mimic sport and fitness activity.
 
 ---
@@ -17,6 +18,12 @@ Here are the steps for operating the Motion APP:
 5. Return to the test interface.
 6. Click the 'Start' button to initiate detection.
 7. This app can detect various types of motion by monitoring changes in the sensor's position, intensity, and signals, facilitating the analysis of different exercise patterns.
+
+---
+
+## The Introduction PDF
+
+[PDF](https://github.com/ezoxygenTeam/Motion-Detect-APP/blob/main/ezGym%20Universal%20Sport%20Tracker.pdf)
 
 ---
 
